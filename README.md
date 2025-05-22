@@ -18,10 +18,10 @@ O projeto está dividido em duas partes:
 - Interface moderna e responsiva
 
 - ### 🖼️ Tela de Login
-![Tela de Login](taskmanager/assets/login.png)
+![Tela de Login](assets/login.png)
 
 ### 🖼️ Tela Inicial
-![Tela Inicial](taskmanager/assets/home.png)
+![Tela Inicial](assets/home.png)
 
 ## 🛠️ Tecnologias Utilizadas
 
