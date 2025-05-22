@@ -25,13 +25,6 @@ O projeto está dividido em duas partes:
 
 ## 🛠️ Tecnologias Utilizadas
 
-### Backend
-- Java
-- Spring Boot
-- Spring Data JPA
-- MySQL
-- Maven
-
 ### Frontend
 - React
 - Axios
