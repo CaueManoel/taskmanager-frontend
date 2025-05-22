@@ -1,4 +1,4 @@
-# 🗂️ TaskManager
+# 🗂️ TaskManager - FrontEnd
 
 **TaskManager** é uma aplicação web fullstack para gerenciamento de tarefas, permitindo a criação, visualização, atualização e exclusão de atividades de forma prática e organizada.
 
