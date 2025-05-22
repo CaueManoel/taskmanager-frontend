@@ -7,7 +7,7 @@
 O projeto está dividido em duas partes:
 
 - **Backend [taskmanager-frontend](https://github.com/CaueManoel/taskmanager-frontend)**: Desenvolvido com **Java + Spring Boot** 
-- **Frontend  – *Este repositório***: Desenvolvido com **React**
+- **Frontend: Desenvolvido com **React** – *Este repositório***
 
 ## 🚀 Funcionalidades
 
